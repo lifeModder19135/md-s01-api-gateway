@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: md-s01_api-gateway
+server:
+  port: 8001
